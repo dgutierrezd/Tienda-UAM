@@ -1,9 +1,10 @@
-import React from 'react'
+import {Text} from 'native-base';
+import React from 'react';
 
 export const Home = () => {
-    return (
-        <>
-            
-        </>
-    )
-}
+  return (
+    <>
+      <Text>Hello world</Text>
+    </>
+  );
+};
