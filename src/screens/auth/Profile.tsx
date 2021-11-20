@@ -39,6 +39,7 @@ const styles = StyleSheet.create({
     title: {
         fontSize: 25,
         marginBottom: 30,
+        color: '#000'
     },
     image: {
         height: 150,
@@ -48,5 +49,6 @@ const styles = StyleSheet.create({
     },
     text: {
         fontSize: 20,
+        color: '#000'
     },
 });
