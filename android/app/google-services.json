@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "546473739872",
+    "project_id": "tienda-uam",
+    "storage_bucket": "tienda-uam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546473739872:android:5861df4320968c9adf2505",
+        "android_client_info": {
+          "package_name": "com.tiendauam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546473739872-6q1pl4pav9qp4baeqh267v6fnoqatqv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiendauam",
+            "certificate_hash": "9832ef4167f7514a94dd6b208d9064fc45e90b70"
+          }
+        },
+        {
+          "client_id": "546473739872-tusek6jf3ghr44138aks7md65nmbobh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd4hL_d6SJM9K2U_ZbT4aoDYQkkgVSxZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546473739872-tusek6jf3ghr44138aks7md65nmbobh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
